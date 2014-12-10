@@ -1,0 +1,16 @@
+c:\users\gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Contabilidad UCSG.exe.config
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Contabilidad UCSG.exe
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Contabilidad UCSG.pdb
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Contabilidad UCSG.xml
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form1.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form2.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form3.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form4.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form5.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Form6.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ContUCSG.Resources.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Contabilidad UCSG.exe
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Contabilidad UCSG.xml
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Contabilidad UCSG.pdb
